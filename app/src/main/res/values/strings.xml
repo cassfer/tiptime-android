@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="text_service_question">Como foi o serviço?</string>
+    <string name="text_cost_of_service">Valor do serviço</string>
+    <string name="text_option_20_porcento">Espetacular (20%)</string>
+    <string name="text_option_15_porcento">Aceitavel (15%)</string>
+    <string name="text_option_18_porcento">Bom (18%)</string>
+    <string name="text_round_up_switch">Arredondar a gorjeta?</string>
+    <string name="text_calculate_button">Calcular</string>
+    <string name="text_tip_result">Valor da gorjeta: %s</string>
+    <string name="description_icon_service_question">service_image</string>
+    <string name="description_icon_round_up_switch">image round up</string>
+</resources>
